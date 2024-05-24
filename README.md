@@ -2,8 +2,8 @@
 * Fama-French Factors and Rolling Factor Betas.
 * K-Means Clustering Algorithm
 * Portfolio Optimization based on Efficient Frontier max Sharpe ratio optimization
-![Uploading image.png…]()
 
+![image](https://github.com/Inquisitive-Learner/Unsupervised-Machine-Learning-Quantitative-Trading-Strategy/assets/80440978/6cdab35d-c4dc-49c9-989d-17eae95ee67f)
 
 # Process
 * Download/Load SP500 stocks prices data.
