@@ -1,5 +1,3 @@
-# Creating an Unsupervised Machine Learning Quantitative Trading model 
-
 # Quantitative Trading & Machine Learning Techniques
 * Fama-French Factors and Rolling Factor Betas.
 * K-Means Clustering Algorithm
