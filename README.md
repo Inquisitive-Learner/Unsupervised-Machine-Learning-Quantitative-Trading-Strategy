@@ -2,6 +2,8 @@
 * Fama-French Factors and Rolling Factor Betas.
 * K-Means Clustering Algorithm
 * Portfolio Optimization based on Efficient Frontier max Sharpe ratio optimization
+![Uploading image.png…]()
+
 
 # Process
 * Download/Load SP500 stocks prices data.
