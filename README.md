@@ -3,7 +3,7 @@
 * K-Means Clustering Algorithm
 * Portfolio Optimization based on Efficient Frontier max Sharpe ratio optimization
 
-![image](https://github.com/Inquisitive-Learner/Unsupervised-Machine-Learning-Quantitative-Trading-Strategy/assets/80440978/6cdab35d-c4dc-49c9-989d-17eae95ee67f)
+![image](https://github.com/Inquisitive-Learner/Unsupervised-Machine-Learning-Quantitative-Trading-Strategy/assets/80440978/77c2489a-5b4e-4eeb-84f2-5a2336495bcc)
 
 # Process
 * Download/Load SP500 stocks prices data.
